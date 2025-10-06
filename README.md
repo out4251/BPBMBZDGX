@@ -102,22 +102,3 @@ GitHub Actions 会每日 00:00（UTC 时间）自动运行：
 本项目使用 MIT License 开源。
 
 您可以自由地使用、复制、修改和分发本项目，前提是附带原始许可证声明。
-
-## 🌐 社区与交流
-
-如果有任何问题或建议，欢迎加入我们的 Telegram 群组交流：
-
-👉 加入 Telegram 群组：<https://t.me/+ft-zI76oovgwNmRh>
-
-## 📢 特别说明
-
-* 本仓库同步的内容来源于 [BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel)。
-
-* 原项目版权归原作者所有，本项目仅用于自动同步更新，不对原内容进行修改。
-
-## Star Histor
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=byJoey/wk-Auto-update&type=Timeline)](https://www.star-history.com/#byJoey/wk-Auto-update&Timeline)
-
